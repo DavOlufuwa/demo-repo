@@ -1,3 +1,3 @@
 # Demo
 
-We are learning GIT
+We are learning GIT.
